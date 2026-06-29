@@ -1,5 +1,2 @@
 # devops
-we learn devops
-BSCS student
-branch is created
-student management portal
+Student management system version 1
